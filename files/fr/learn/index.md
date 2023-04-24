@@ -131,11 +131,7 @@ Si vous êtes intéressé pour aider à développer/améliorer le contenu, jetez
   - : Site interactif avec didacticiels et projets pour apprendre le développement web.
 - [Web literacy map](https://foundation.mozilla.org/en/initiatives/web-literacy/core-curriculum/)
 
-  - : Un _framework_ pour l'initiation à la maîtrise du Web et aux compétences du XXI
-
-    <sup>e</sup>
-
-    siècle, qui donne également accès à des activités d'enseignement classées par catégorie.
+  - : Un _framework_ pour l'initiation à la maîtrise du Web et aux compétences du XXI<sup>e</sup> siècle, qui donne également accès à des activités d'enseignement classées par catégorie.
 
 - [Edabit](https://edabit.com/challenges)
   - : Des milliers de défis JavaScript interactifs.
